@@ -1,2 +1,2 @@
 # nexus-bot
-Bug reports / feature tracking repository for the Nexus Bot
+Bug reports/feature tracking for the Nexus Discord Bot
